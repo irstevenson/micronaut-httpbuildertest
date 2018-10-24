@@ -28,7 +28,7 @@ To run the micronaut app, simply:
 
     ./gradlew run
 
-You'll see it start up and then bug out with:
+You'll see it start up and then bug out (prior to the above fix being applied) with:
 
 ```
 $ ./gradlew run
