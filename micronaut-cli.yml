@@ -1,0 +1,5 @@
+profile: cli
+defaultPackage: httpbuildertest
+---
+testFramework: spock
+sourceLanguage: groovy
